@@ -5,3 +5,4 @@ git tracks changes of files
 git has a mutable index called stage
 creating a new branch is quick and simple
 create a new branch dev
+git cofig --global color.ui true
