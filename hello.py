@@ -1,2 +1,2 @@
-#!/usr/local/env
+#!/usr/local/enving
 print(hello word)
